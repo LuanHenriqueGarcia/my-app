@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 
 type Props = {
   phrase: string;
